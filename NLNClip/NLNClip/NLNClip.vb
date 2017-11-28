@@ -1,5 +1,5 @@
 ﻿Public Class NLNClip
-    'Draw/Clip status
+    'Draw/Clip status 
     Dim DrawDotMode As Boolean
     Dim DrawLineMode As Boolean
     Dim ClipMode As Boolean
